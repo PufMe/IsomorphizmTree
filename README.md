@@ -1,1 +1,1 @@
-# isomorphizm_tree
+отчет - docs/algosnuy.md
